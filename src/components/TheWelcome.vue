@@ -1,3 +1,0 @@
-<template>
-  spipinkl
-</template>
